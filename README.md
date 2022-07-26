@@ -5,3 +5,4 @@ vertices.
 
 This project was completed almost entirely with R, and there was plenty of pen-and-paper maths for the logistics.
 
+Included is the final PDF and the R file the code was written in.
