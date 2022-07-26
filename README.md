@@ -3,5 +3,5 @@
 The task for this project was to write a function to plot a polygon and find its area, given the coordinates of its
 vertices. 
 
-Used R for the coding and LaTeX for presenting. 
+This project was completed almost entirely with R, and there was plenty of pen-and-paper maths for the logistics.
 
